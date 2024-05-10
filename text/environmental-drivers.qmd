@@ -225,7 +225,7 @@ MET_wind_q1 <- MET %>%
                  as.POSIXct("2024-01-01 00:00:00"), 
                  as.POSIXct("2024-03-31 23:45:00")))
 
-plot_wind(MET_wind_q1, type = 'month', main = NULL)
+plot_wind(MET_wind_q1, type = 'month', main = NULL, annotate = TRUE)
 
 ```
 
