@@ -1,0 +1,50 @@
+---
+title: "Maintenance Notes"
+link-external-icon: true
+link-external-newwindow: true
+execute:
+  warning: false
+  error: false
+filters:
+  - lightbox
+lightbox: auto
+---
+
+## Sonde Failure in Field
+
+Two sonde failures and multiple sensor failures (3 Wiped CT) occurred during the first quarter. The data sondes will need to be sent in for repair and sensors will most likely need to be replaced since they are no longer covered under warranty.
+
+SD card failed prior to deployment of sonde at San Sebastian (Flounder SN: 13K102679) on March 7, 2024. Since failure occured prior to deployment, data were collected during the entire deployment (March 7, 2024 10:00 -- April 9, 2024 11:30) and post deployment procedures were not conducted. The data sonde was taken out of rotation and sent to Xylem/YSI for repairs. 
+
+## Wiper Brush Fell Off
+
+The wiper brush fell off on the following deployments:
+
+Pine Island:
+
+-   January 10 -- February 8, 2024 (Irma SN: 20H100465) central wiper SN: 23G100412
+
+San Sebastian:
+
+-   December 12 -- January 10, 2024 (Megalops SN: 16J102351) central wiper SN: 22A106852
+-   February 8 -- March 7, 2024 (Megalops SN: 16J102351) central wiper SN: 22A106852
+
+## Depth dropout
+
+The depth sensor dropped from deployment of sonde Egret (SN: 15E101700) from December 12, 2023 -- January 10, 2024 at Pellicer Creek. This resulted in a broken deployment file at December 17, 2023 04:30 in which the depth sensor was completely missing from the second half of this split file. During post-calibrations, the battery compartment was reset (removed battery cap and replaced it) and the depth sensor was reconnected to the data sonde. Post-calibration values were able to be collected and a calibration test of the sensor showed that it was able to be stabilized. Therefore, this sensor and sonde will be redeployed.
+
+## Data file broken up
+
+San Sebastian, Fort Matanzas, and Pellicer Creek experienced broken data files. The data files were broken into many different files upon download. Staff initially thought that the central wipers were causing the issues due the sensor data reporting NAN's during the issues; however, staff are now beginning to suspect the cause of the broken files are due to faulty wiped conductivity/temperature (WCT) probes but further investigation needs to be conducted. 
+
+The following is a list of deployments that experienced broken data files and all of the WCT probes have been pulled for evaluation:
+
+-   PC (Egret SN: 15E101700) 12/12/2023, 11:15 -- 01/10/2024, 12:00
+-   SS (Flounder SN: 12L101354) 01/10/2024 12:15 -- 02/08/2024 10:15 
+-   FM (Marlin SN: 13E101372) 03/07/2024 09:30 -- 04/09/2024 10:15
+
+## Faulty batteries
+
+Pellicer Creek telemetry and Egret (SN: 15E101700) data sonde experience battery issues during the first quarter of 2024. The PC telemetry station was reporting low battery voltage in February and March. On April 2, 2024 research staff successfully replaced the battery at the telemetry station. Staff confirmed that the power supply elevated after the exchange.
+
+In January 2024 the battery voltage on Pellicer Creek sonde, Egret, increased during the deployment which is uncommon. This same battery issue repeated itself each time this sonde was deployed in February and March. In early April when the sonde was getting calibrated the KOR software notified the technician that the datasonde's internal RTC battery aka coin cell had low voltage. Staff called Xylem/YSI tech support and was told to send the data sonde in for repairs.  
