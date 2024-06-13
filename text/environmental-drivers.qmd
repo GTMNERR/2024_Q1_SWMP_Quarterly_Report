@@ -395,7 +395,7 @@ Predicted king tide events for quarter one of 2024 were:
 -   January 11th-13th
 
 
-The effect of the King Tides on daily average water depths at all the stations is observable in the steady climb of the water beginning in mid-September (@fig-range-depth); however, the individual "events" are not quite as clear outside of the Pellicer Creek station (@fig-range-depth-4) where clear increases in water levels are closely aligned with these periods. Unfortunately, September King Tide, which was coupled with a Nor'easter, was not captured at this station due to equipment maintenance issues.
+<!--The effect of the King Tides on daily average water depths at all the stations is observable in the steady climb of the water beginning in mid-September (@fig-range-depth); however, the individual "events" are not quite as clear outside of the Pellicer Creek station (@fig-range-depth-4) where clear increases in water levels are closely aligned with these periods. Unfortunately, September King Tide, which was coupled with a Nor'easter, was not captured at this station due to equipment maintenance issues.-->
 
 ### Water Depth
 
