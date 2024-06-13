@@ -14,7 +14,7 @@ lightbox: auto
 
 Two sonde failures and multiple sensor failures (3 Wiped CT) occurred during the first quarter. The data sondes will need to be sent in for repair and sensors will most likely need to be replaced since they are no longer covered under warranty.
 
-SD card failed prior to deployment of sonde at San Sebastian (Flounder SN: 13K102679) on March 7, 2024. Since failure occured prior to deployment, data were collected during the entire deployment (March 7, 2024 10:00 -- April 9, 2024 11:30) and post deployment procedures were not conducted. The data sonde was taken out of rotation and sent to Xylem/YSI for repairs. 
+SD card failed prior to deployment of sonde at San Sebastian (Flounder SN: 13K102679) on March 7, 2024. Since failure occured prior to deployment, data were not collected during the entire deployment (March 7, 2024 10:00 -- April 9, 2024 11:30) and post deployment procedures were not conducted. The data sonde was taken out of rotation and sent to Xylem/YSI for repairs. 
 
 ## Wiper Brush Fell Off
 
