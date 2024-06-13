@@ -33,7 +33,7 @@ Rainfall totals for the first quarter of 2024 exceeded the quarterly totals from
 
 Winter storm Finn (unofficially named) brought rainfall and strong winds in [January](https://www.actionnewsjax.com/news/local/strong-storm-cold-front-will-move-across-northeast-florida-southeast-georgia/DNJ3SOGJ35G4FCKJLPJNP67YZY/) to Northeast Florida causing some local schools to release students early and cancel after school activities (@fig-rainfall-1; @fig-rainfall-2). This events is discussed in further detail in the next chapter.
 
-In 2024, the average daily amount of light intensity for each month is shown in @fig-lightintensity. Light intensity increased each month with the lowest peak daily amount of light in January and the highest in March. The greatest light intensity in March occurred mid-day and exceeded January's intensity by over 10,000 mMol/m^2.
+In 2024, the average daily amount of light intensity for each month is shown in @fig-lightintensity. Light intensity increased each month with the lowest peak daily amount of light in January and the highest in March. The greatest light intensity in March occurred mid-day and exceeded January&#39s intensity by over 10,000 mMol/m^2.
 
 Daily average air temperatures were variable during the first part of the year but fell within the historical range for the GTMNERR station through March (@fig-range-atemp). January and March experienced a few temperature drops outside of the average range  (@fig-range-atemp). 
 
